@@ -3,4 +3,4 @@
 
 ##效果如下：
 
-![](https://github.com/TwOq/alipayDemo/raw/master/alipayDemo.gif) 
+![](https://github.com/TwOq/alipayDemo/raw/master/payDemo.gif) 
