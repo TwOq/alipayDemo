@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>记帐本</string>
+			<string>加油服务</string>
+			<string>发票管家</string>
+			<string>羊城通充值</string>
+			<string>我的快递</string>
+			<string>我的客服</string>
+			<string>服务窗</string>
+			<string>城市服务</string>
+			<string>生活缴费</string>
+			<string>信用卡还款</string>
+			<string>手机充值</string>
+		</array>
+		<key>title</key>
+		<string>便民生活</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>余额宝</string>
+			<string>蚂蚁花呗</string>
+			<string>芝麻信用</string>
+			<string>蚂蚁聚宝</string>
+			<string>股票</string>
+			<string>保险服务</string>
+			<string>汇率换算</string>
+			<string>理财小工具</string>
+			<string>蚂蚁借呗</string>
+		</array>
+		<key>title</key>
+		<string>财富管理</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>转账</string>
+			<string>红包</string>
+			<string>亲情账户</string>
+			<string>收款</string>
+			<string>AA收款</string>
+			<string>亲密付</string>
+			<string>上银汇款</string>
+			<string>话费卡转让</string>
+		</array>
+		<key>title</key>
+		<string>资金往来</string>
+	</dict>
+	<dict>
+		<key>list</key>
+		<array>
+			<string>游戏中心</string>
+			<string>世界那么大</string>
+			<string>彩票</string>
+			<string>未来蚁来</string>
+		</array>
+		<key>title</key>
+		<string>购物娱乐</string>
+	</dict>
+</array>
+</plist>
